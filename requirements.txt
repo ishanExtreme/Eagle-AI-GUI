@@ -16,7 +16,7 @@ ipywidgets==7.5.1
 isort==4.3.21
 jedi==0.17.0
 Jinja2==2.11.2
-joblib==0.16.0
+joblib==1.2.0
 joystick==0.3.8
 jsonschema==2.6.0
 jupyter==1.0.0
